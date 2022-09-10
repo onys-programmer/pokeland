@@ -91,7 +91,7 @@
 
 - GitLab
 - Jira
-- Nortion
+- Notion
 - Mattermost
 - Webex
 - Discord
